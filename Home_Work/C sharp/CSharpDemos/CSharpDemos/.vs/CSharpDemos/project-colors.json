@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "252705a5-d6fd-44b6-868f-6bbc593b2cfb": {
+      "ProjectGuid": "252705a5-d6fd-44b6-868f-6bbc593b2cfb",
+      "DisplayName": "Demo23_WebApp",
+      "ColorIndex": 0
+    },
+    "23ade7ce-a017-4c2e-8f43-3a0cb84ccf4f": {
+      "ProjectGuid": "23ade7ce-a017-4c2e-8f43-3a0cb84ccf4f",
+      "DisplayName": "Demo24_Threads",
+      "ColorIndex": 1
+    },
+    "52fdd5aa-7ad0-4d31-9a05-499605752c58": {
+      "ProjectGuid": "52fdd5aa-7ad0-4d31-9a05-499605752c58",
+      "DisplayName": "Demo25_Parallel",
+      "ColorIndex": 2
+    },
+    "b8856a0f-0e0a-4b79-9479-db7b3d04c69f": {
+      "ProjectGuid": "b8856a0f-0e0a-4b79-9479-db7b3d04c69f",
+      "DisplayName": "Demo26_Task",
+      "ColorIndex": 3
+    },
+    "13e25356-5c10-4ec7-97ea-a8e9da3a5e35": {
+      "ProjectGuid": "13e25356-5c10-4ec7-97ea-a8e9da3a5e35",
+      "DisplayName": "Demo27_Task_AsyncAwait",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
